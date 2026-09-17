@@ -1,5 +1,7 @@
 ## ADD BEV VIEW for all three models
 
+## If your PointPillars model achieved higher accuracy than MVX-Net, it usually indicates an issue with data alignment, sensor calibration, or model tuning --- this means our mvx net is mostly wrong or we need proper justification 
+
 <img width="1242" height="375" alt="004489_mvxnet" src="https://github.com/user-attachments/assets/8244af82-ee37-41dc-9f3a-51c3642ecd22" />
 <img width="1242" height="375" alt="003705_mvxnet" src="https://github.com/user-attachments/assets/4107a472-f342-452a-915d-a0d5a7a87168" />
 
