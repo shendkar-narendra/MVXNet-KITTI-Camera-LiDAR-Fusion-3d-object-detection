@@ -1,5 +1,9 @@
 ## ADD BEV VIEW for all three models
 
+<img width="1242" height="375" alt="004489_mvxnet" src="https://github.com/user-attachments/assets/8244af82-ee37-41dc-9f3a-51c3642ecd22" />
+<img width="1242" height="375" alt="003705_mvxnet" src="https://github.com/user-attachments/assets/4107a472-f342-452a-915d-a0d5a7a87168" />
+
+
 # MVXNet-KITTI-Camera-LiDAR-Fusion
 
 Camera-LiDAR sensor-fusion-based 3D object detection on the **KITTI 3D Object Detection Dataset** using **Dynamic MVX-Net / DynamicMVXFasterRCNN** implemented with **MMDetection3D 0.17.1**.
